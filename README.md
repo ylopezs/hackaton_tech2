@@ -3,9 +3,9 @@
 ## **Equipo**  
 **Nombre del equipo:** Starlight  
 ## **Integrantes**
-Luisa Granada Usme
-Luz Marina Getial
-Yonatan Alberto López Sierra
+#### Luisa Granada Usme
+#### Luz Marina Getial
+#### Yonatan Alberto López Sierra
 
 ## **Descripción del Proyecto**  
 **Problema abordado:** Ineficiencia en la producción debido a fallas no planificadas en maquinaria industrial.  
